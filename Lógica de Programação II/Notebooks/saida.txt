@@ -1,0 +1,30 @@
+10.0 - Não Primo
+64.0 - Não Primo
+95.0 - Não Primo
+92.0 - Não Primo
+96.0 - Não Primo
+16.0 - Não Primo
+47.0 - Primo
+21.0 - Não Primo
+50.0 - Não Primo
+74.0 - Não Primo
+78.0 - Não Primo
+29.0 - Primo
+23.0 - Primo
+81.0 - Não Primo
+24.0 - Não Primo
+92.0 - Não Primo
+72.0 - Não Primo
+18.0 - Não Primo
+6.0 - Não Primo
+75.0 - Não Primo
+69.0 - Não Primo
+82.0 - Não Primo
+37.0 - Primo
+63.0 - Não Primo
+26.0 - Não Primo
+43.0 - Primo
+80.0 - Não Primo
+4.0 - Não Primo
+2.0 - Primo
+20.0 - Não Primo
